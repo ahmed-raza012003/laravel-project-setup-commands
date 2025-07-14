@@ -2,7 +2,7 @@
 SETLOCAL ENABLEDELAYEDEXPANSION
 
 :: Define project directory and paths
-SET "PROJECT_DIR=AnaarMultiTenant"
+SET "PROJECT_DIR=Project_Name"
 SET "BASE_PATH=%CD%"
 SET "WEB_ROOT=%BASE_PATH%\%PROJECT_DIR%"
 SET "PHP_VERSION=8.2"
